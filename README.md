@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a big fan of the Go language and a passionate advocate for the open-source culture. Professionally, I'm involved in developing and operating Git hosting services, and I'm proud to lead the Open Source Program Office (OSPO) to foster the open-source environment within my company.
+
+When I'm not working, I love crafting small, useful libraries and command-line tools. One of the things I truly enjoy is collaborating with developers from around the globe on GitHub to create unique pieces of software.
+
 <!--
 **vvatanabe/vvatanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
