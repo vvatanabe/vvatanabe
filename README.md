@@ -34,5 +34,8 @@ I've written the following books and blog articles. If any of these pique your i
 | 2019/12/20 | Nulab Blog | [BacklogのGitを快適に使用するコマンドラインツール「gitb」（ギットビー）のご紹介](https://backlog.com/ja/blog/the-introduction-of-gitb/) |
 | 2019/04/25 | WEB+DB PRESS<br>Vol.110 特集 | [速習gRPC 〜 高速！ 安全！ 高信頼！ マイクロサービス接続の大本命 〜](https://gihyo.jp/magazine/wdpress/archive/2019/vol110) |
 | 2017/12/01 | Nulab Blog | [Go言語でGitサーバーを書いてみた](https://nulab.com/ja/blog/nulab/git-server-golang/) |
+| 2017/03/16 | Personal Blog | [Notify travis build to Typetalk](https://blog.vvatanabe.com/post/2017/03/16/notify-travis-build-to-typetalk/) |
+| 2017/03/10 | Personal Blog | [How the static site can improve its performance on](https://blog.vvatanabe.com/post/2017/03/10/how-the-static-site-can-improve-its-performance-on/) |
+| 2017/03/02 | Personal Blog | [Quickly publishing blogs with hugo to AWS](https://blog.vvatanabe.com/post/2017/03/02/quickly-publishing-blogs-with-hugo-to-aws/) |
 | 2015/12/24 | Nulab Blog | [真のパスワード強度を測定する5つのアルゴリズム](https://nulab.com/ja/blog/nulab/password-strength/) |
 
