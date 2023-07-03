@@ -14,7 +14,21 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 ## Presentation Highlights
 Here are some of the presentations I've given. Feel free to dive in!
 
-**TODO**
+| Published | Event | Title |
+| ----------- | ----------- | ----------- |
+| 2022/12/05 | [JBUG福岡#14](https://jbug.connpass.com/event/265813/) | [BacklogのGitを支えるGitチームの紹介2022](https://cacoo.com/diagrams/pGan2GD70tLbPQ3u) |
+| 2022/10/05 | 宮古島市立久松中学校 特別授業 | [【キャリア教育】プログラマーというお仕事](https://cacoo.com/diagrams/AziZqw4BxyFsY1HP/F663C) |
+| 2022/04/19 | [NuCon mini '22](https://nulab.connpass.com/event/244392/) | [BacklogのGitホスティングにおける冗長化と負荷分散の仕組み](https://slides.com/vvatanabe/backlog-git-high-availability) |
+| 2021/11/27 | [NuCon '21](https://nulab.connpass.com/event/229040/) | [OpenSSHがSHA-1を使用したRSA署名を廃止、BacklogのGitで発生した問題と解決にいたるまでの道のり](https://slides.com/vvatanabe/troubleshooting-deprecation-of-sha1-sig-alg-in-git-ssh) |
+| 2021/04/16 | [NuCon mini 2021](https://nulab.connpass.com/event/207907/) | [5年間のOSS活動で学んだエコシステムの広がりと多用な関わり方](https://slides.com/vvatanabe/oss-ecosystem-and-various-contributions) |
+| 2021/03/03 | [【シューマイ】Tech Lead Engineerから最新技術を学べ！Go編](https://shuuu-mai.connpass.com/event/205747/) | [Git LFS in Go 〜BacklogにおけるGoの活用事例〜](https://slides.com/vvatanabe/git-lfs-in-go) |
+| 2020/10/10 | [Go Conference '20 in Autumn SENDAI](https://sendai.gocon.jp/) | [GitホスティングにおけるGoとgRPCを用いた複製と分散のアプローチ](https://slides.com/vvatanabe/git-hosting-high-availability) |
+| 2020/03/02 | [Fukuoka.go#15](https://fukuokago.connpass.com/event/164350/) | [速習 Go JWDK 〜ジョブワーカの信頼性とポータビリティを高めるために〜](https://slides.com/vvatanabe/a-short-introduction-to-go-jwdk-ja) |
+| 2019/08/22 | [SecHack365 2019 in Fukuoka](https://nulab.com/ja/blog/nulab/190821-sechack365/) | [BacklogのGitを支える技術](https://slides.com/vvatanabe/backlog-git-techs) |
+| 2019/07/25 | [Go Conference'19 Summer in Fukuoka](https://fukuoka.gocon.jp/) | [Tech practice for replace Backlog's Git services in Go](https://slides.com/vvatanabe/tech-practice-for-replace-backlogs-git-services-in-go) |
+| 2019/02/12 | [Fukuoka.go#13](https://fukuokago.connpass.com/event/112073/) | [Git RPC Service with Go + gRPC + libgit2](https://slides.com/vvatanabe/git-rpc-service-with-go-grpc-libgit2) |
+| 2018/06/14 | [Fukuoka.go#11](https://fukuokago.connpass.com/event/87684/) | [Runtime Dependency Injection in Go](https://slides.com/vvatanabe/runtime-dependency-injection-in-go) |
+| 2018/04/15 | [Go Conference 2018 Spring](https://gocon.connpass.com/event/82515/) | [Replaced Backlog's Git Server from Perl to Go](https://slides.com/vvatanabe/replaced-backlogs-git-server-from-perl-to-go) |
 
 ## My Writing Endeavors
 I've written the following books and blog articles. If any of these pique your interest, feel free to check them out!
