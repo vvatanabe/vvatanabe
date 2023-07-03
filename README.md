@@ -11,6 +11,11 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 **TODO**
 - [Project Name](Project URL): Brief description of the project
 
+## Presentation Highlights
+Here are some of the presentations I've given. Feel free to dive in!
+
+**TODO**
+
 ## My Writing Endeavors
 I've written the following books and blog articles. If any of these pique your interest, feel free to check them out!
 
