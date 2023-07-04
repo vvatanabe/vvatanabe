@@ -14,16 +14,21 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 | ----------- | ----------- | ----------- |
 | [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) | This library is a cool library that checks out how strong your passwords are. It's a Java port of the [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) library that Dropbox developed in JavaScript. With around 300k downloads each month, it's being used by sorts of products worldwide. | Maintainer |
 | [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | This library provides unofficial Go clients for OpenAI API. It is introduced as a [Community library](https://platform.openai.com/docs/libraries/go) in the official OpenAI documentation. | Maintainer |
-| vvatanabe/gitb |  |  |
-| vvatanabe/gbch |  |  |
-| nulab/sshext |  |  |
-| nulab/backlog-js |  |  |
-| vvatanabe/shot |  |  |
-| vvatanabe/go-leetcode |  |  |
-| vvatanabe/vvatanabe/git-ssh-test-server |  |  |
-| vvatanabe/git-ha-poc |  |  |
-| go-jwdk/jobworker |  |  |
-| vvatanabe/aws-snapshot-bulk-delete |  |  |
+| [vvatanabe/gitb](https://github.com/vvatanabe/gitb) | A command line tool for using Backlog's git comfortably. https://gitb.vvatanabe.com/ | Maintainer |
+| [vvatanabe/gbch](https://github.com/vvatanabe/gbch) | Generate changelog from git history, tags and merged pull requests for Backlog. forked from [Songmu/ghch](https://github.com/Songmu/ghch) | Maintainer |
+| [nulab/sshext](https://github.com/nulab/sshext) | Implements OpenSSH's deviations and extensions to the published SSH protocol. | Maintainer |
+| [nulab/backlog-js](https://github.com/nulab/backlog-js) | Backlog API version 2 client for browser and node. https://developer.nulab.com/docs/backlog/# | Maintainer |
+| [vvatanabe/shot](https://github.com/vvatanabe/shot) | This library is a reflection based tiny DI container. It was inspired by the interface of the [Google Guice](https://github.com/google/guice). | Maintainer |
+| [vvatanabe/go-leetcode](https://github.com/vvatanabe/go-leetcode) | [leetcode](https://leetcode.com/) in Go | Maintainer |
+| [vvatanabe/git-ssh-test-server](https://github.com/vvatanabe/git-ssh-test-server) | Git SSH Test Server is an example server that implements the Git SSH Protocol. It is intended to be used for testing the Git SSH and is not in a production ready state. | Maintainer |
+| [vvatanabe/git-ha-poc](https://github.com/vvatanabe/git-ha-poc) | Just a proof of concept for a highly available Git servers. | Maintainer |
+| [Go Job Worker Development Kit](https://github.com/go-jwdk) | The jobworker package provides a generic interface around message queue. Common interface transparently facilitates connection to various queue data sources. | Maintainer |
+| [vvatanabe/aws-snapshot-bulk-delete](https://github.com/vvatanabe/aws-snapshot-bulk-delete) | Bulk delete AWS EBS Snapshot with tags and expiration date. | Maintainer |
+| [libgit2/git2go](https://github.com/libgit2/git2go) | Go bindings for [libgit2](http://libgit2.github.com/). | [Contributor](https://github.com/libgit2/git2go/commits?author=vvatanabe) |
+| [go-git/go-git](https://github.com/go-git/go-git) | go-git is a highly extensible git implementation library written in pure Go. | [Contributor](https://github.com/go-git/go-git/commits?author=vvatanabe) |
+| [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) | zxcvbn is a password strength estimator inspired by password crackers. | [Contributor](https://github.com/dropbox/zxcvbn/pull/175) |
+| [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) | Bot Framework provides the most comprehensive experience for building conversation applications. | [Contributor](https://github.com/microsoft/botframework-sdk/pull/559) |
+| []() | | []() |
 
 ## Presentation Highlights
 Here are some of the presentations I've given. Feel free to dive in!
