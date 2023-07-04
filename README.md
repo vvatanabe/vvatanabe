@@ -8,8 +8,22 @@ When I'm not working, I love crafting small, useful libraries and command-line t
 
 Here, I'd list down projects or contributions I've made on GitHub. This could include repositories I've contributed to or open-source projects I've developed myself.
 
-**TODO**
-- [Project Name](Project URL): Brief description of the project
+**WIP**
+
+| Project | Description | Role |
+| ----------- | ----------- | ----------- |
+| [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) | This library is a cool library that checks out how strong your passwords are. It's a Java port of the [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) library that Dropbox developed in JavaScript. With around 300k downloads each month, it's being used by sorts of products worldwide. | Maintainer |
+| [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | This library provides unofficial Go clients for OpenAI API. It is introduced as a [Community library](https://platform.openai.com/docs/libraries/go) in the official OpenAI documentation. | Maintainer |
+| vvatanabe/gitb |  |  |
+| vvatanabe/gbch |  |  |
+| nulab/sshext |  |  |
+| nulab/backlog-js |  |  |
+| vvatanabe/shot |  |  |
+| vvatanabe/go-leetcode |  |  |
+| vvatanabe/vvatanabe/git-ssh-test-server |  |  |
+| vvatanabe/git-ha-poc |  |  |
+| go-jwdk/jobworker |  |  |
+| vvatanabe/aws-snapshot-bulk-delete |  |  |
 
 ## Presentation Highlights
 Here are some of the presentations I've given. Feel free to dive in!
