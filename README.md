@@ -30,7 +30,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
-| 2022/12/05 | [JBUG福岡#14](https://jbug.connpass.com/event/265813/) | [BacklogのGitを支えるGitチームの紹介2022](https://cacoo.com/diagrams/pGan2GD70tLbPQ3u) |
+| 2022/12/05 | [JBUG福岡#14](https://jbug.connpass.com/event/265813/) | [BacklogのGitを支えるGitチームの紹介2022](https://speakerdeck.com/nulabinc/introduction-for-git-team-supporting-backlog-git-2022) |
 | 2022/10/05 | 宮古島市立久松中学校 特別授業 | [【キャリア教育】プログラマーというお仕事](https://cacoo.com/diagrams/AziZqw4BxyFsY1HP/F663C) |
 | 2022/04/19 | [NuCon mini '22](https://nulab.connpass.com/event/244392/) | [BacklogのGitホスティングにおける冗長化と負荷分散の仕組み](https://slides.com/vvatanabe/backlog-git-high-availability) |
 | 2021/11/27 | [NuCon '21](https://nulab.connpass.com/event/229040/) | [OpenSSHがSHA-1を使用したRSA署名を廃止、BacklogのGitで発生した問題と解決にいたるまでの道のり](https://slides.com/vvatanabe/troubleshooting-deprecation-of-sha1-sig-alg-in-git-ssh) |
