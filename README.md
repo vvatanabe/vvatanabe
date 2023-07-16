@@ -8,8 +8,6 @@ When I'm not working, I love crafting small, useful libraries and command-line t
 
 Here, I'd list down projects or contributions I've made on GitHub. This could include repositories I've contributed to or open-source projects I've developed myself.
 
-**WIP**
-
 | Project | Description | Role |
 | ----------- | ----------- | ----------- |
 | [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) | This library is a cool library that checks out how strong your passwords are. It's a Java port of the [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) library that Dropbox developed in JavaScript. With around 300k downloads each month, it's being used by sorts of products worldwide. | Maintainer |
