@@ -33,7 +33,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
-| 2023/07/20 | [DAIMYO Meetup#2](https://nulab.connpass.com/event/288542) | コードからコミュニティへ 〜 OSSと共に歩む旅路 〜 |
+| 2023/07/20 | [DAIMYO Meetup#2](https://nulab.connpass.com/event/288542) | CODE TO COMMUNITY 〜 Journey Through OSS with Go OpenAI 〜 |
 | 2022/12/05 | [JBUG福岡#14](https://jbug.connpass.com/event/265813/) | [BacklogのGitを支えるGitチームの紹介2022](https://speakerdeck.com/nulabinc/introduction-for-git-team-supporting-backlog-git-2022) |
 | 2022/10/05 | 宮古島市立久松中学校 特別授業 | [【キャリア教育】プログラマーというお仕事](https://cacoo.com/diagrams/AziZqw4BxyFsY1HP/F663C) |
 | 2022/04/19 | [NuCon mini '22](https://nulab.connpass.com/event/244392/) | [BacklogのGitホスティングにおける冗長化と負荷分散の仕組み](https://slides.com/vvatanabe/backlog-git-high-availability) |
