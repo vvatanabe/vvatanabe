@@ -61,7 +61,7 @@ I've written the following books and blog articles. If any of these pique your i
 
 | Published | Source | Title |
 | ----------- | ----------- | ----------- |
-| WIP | WIP | CODE TO COMMUNITY 〜 Journey Through OSS with Go OpenAI 〜 |
+| 2023/07/25 | Nulab Blog | [コードからコミュニティへ 〜 Go OpenAIと共に歩むOSSの旅 〜](https://nulab.com/ja/blog/nulab/code-to-community/) |
 | 2023/04/20 | Nulab Blog | [プログラミングを通じて得られた宮古島の子どもたちの笑顔](https://nulab.com/ja/blog/nulab/resortwork2022-vvatanabe/) |
 | 2022/12/15 | Nulab Blog | [BacklogのGitを支えるGitチームの紹介2022](https://nulab.com/ja/blog/backlog/introduction-for-git-team-2022/) |
 | 2022/09/30 | Nulab Blog | [複数のアプリケーションを横断する処理のボトルネックを追跡し改善した話](複数のアプリケーションを横断する処理のボトルネックを追跡し改善した話) |
