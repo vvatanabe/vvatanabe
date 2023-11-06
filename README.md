@@ -12,6 +12,7 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 | ----------- | ----------- | ----------- |
 | [nulab/zxcvbn4j](https://github.com/nulab/zxcvbn4j) | This library is a cool library that checks out how strong your passwords are. It's a Java port of the [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) library that Dropbox developed in JavaScript. With around 300k downloads each month, it's being used by sorts of products worldwide. | Maintainer |
 | [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) | This library provides unofficial Go clients for OpenAI API. It is introduced as a [Community library](https://platform.openai.com/docs/libraries/go) in the official OpenAI documentation. | Maintainer |
+| [vvatanabe/dynamomq](https://github.com/vvatanabe/dynamomq) | Implementing message queueing with Amazon DynamoDB in Go. | Maintainer |
 | [vvatanabe/gitb](https://github.com/vvatanabe/gitb) | A command line tool for using Backlog's git comfortably. https://gitb.vvatanabe.com/ | Maintainer |
 | [vvatanabe/gbch](https://github.com/vvatanabe/gbch) | Generate changelog from git history, tags and merged pull requests for Backlog. forked from [Songmu/ghch](https://github.com/Songmu/ghch) | Maintainer |
 | [nulab/sshext](https://github.com/nulab/sshext) | Implements OpenSSH's deviations and extensions to the published SSH protocol. | Maintainer |
