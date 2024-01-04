@@ -66,7 +66,7 @@ I've written the following books and blog articles. If any of these pique your i
 | 2023/07/25 | Nulab Blog | [コードからコミュニティへ 〜 Go OpenAIと共に歩むOSSの旅 〜](https://nulab.com/ja/blog/nulab/code-to-community/) |
 | 2023/04/20 | Nulab Blog | [プログラミングを通じて得られた宮古島の子どもたちの笑顔](https://nulab.com/ja/blog/nulab/resortwork2022-vvatanabe/) |
 | 2022/12/15 | Nulab Blog | [BacklogのGitを支えるGitチームの紹介2022](https://nulab.com/ja/blog/backlog/introduction-for-git-team-2022/) |
-| 2022/09/30 | Nulab Blog | [複数のアプリケーションを横断する処理のボトルネックを追跡し改善した話](複数のアプリケーションを横断する処理のボトルネックを追跡し改善した話) |
+| 2022/09/30 | Nulab Blog | [複数のアプリケーションを横断する処理のボトルネックを追跡し改善した話](https://nulab.com/ja/blog/backlog/investigate-bottlenecks-in-multiple-applications/) |
 | 2022/08/26 | Nulab Blog | [大容量のストレージを持つサーバーの奇妙なメモリ使用量の増加原因を究明した話](https://nulab.com/ja/blog/backlog/investigating-the-cause-of-the-strange-memory-rise/) |
 | 2022/07/13 | Nulab Blog | [OpenSSHのプロトコル拡張「UpdateHostKeys」の仕組みと実装](https://nulab.com/ja/blog/backlog/openssh-update-host-keys-in-go/) |
 | 2022/04/28 | Nulab Blog | [BacklogのGitホスティングにおける冗長化と負荷分散の仕組み](https://nulab.com/ja/blog/backlog/backlog-git-high-availability/) |
