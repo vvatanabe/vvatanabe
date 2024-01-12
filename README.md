@@ -34,6 +34,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2024/02/01 | [第1回 AWSコスト削減 天下一武道会](https://no1.connpass.com/event/305664/) | やらなきゃ損！ECS Fargateのコスト削減の手引 |
 | 2023/10/07 | [JAWS FESTA 2023 in Kyushu](https://jft2023.jaws-ug.jp/) | [Backlogの成長と共に進化するAWSを活用したGitホスティングアーキテクチャ](https://speakerdeck.com/vvatanabe/backlog-git-hosting-architecture-with-aws-2023-5d51109a-c09d-4554-a73e-f1ac68d6f90e) |
 | 2023/07/20 | [DAIMYO Meetup#2](https://nulab.connpass.com/event/288542) | CODE TO COMMUNITY 〜 Journey Through OSS with Go OpenAI 〜 [[EN](https://slides.com/vvatanabe/code-to-community)][[JA](https://slides.com/vvatanabe/code-to-community-ja)]|
 | 2022/12/05 | [JBUG福岡#14](https://jbug.connpass.com/event/265813/) | [BacklogのGitを支えるGitチームの紹介2022](https://speakerdeck.com/nulabinc/introduction-for-git-team-supporting-backlog-git-2022) |
