@@ -34,6 +34,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2024/03/27 | Backlog Meetup in Hanoi | [High Availability at Backlog Git](https://speakerdeck.com/vvatanabe/high-availability-at-backlog-git) |
 | 2024/02/28 | [DAIMYO Meetup#4](https://nulab.connpass.com/event/307954/) | [Intoroduction to DynamoMQ](https://speakerdeck.com/vvatanabe/dynamomq-implementing-message-queueing-with-amazon-dynamodb-in-go)|
 | 2024/02/01 | [第1回 AWSコスト削減 天下一武道会](https://no1.connpass.com/event/305664/) | [やらなきゃ損！ECS Fargateのコスト削減の手引](https://speakerdeck.com/vvatanabe/cost-reduction-for-ecs-fargate-usage-in-backlog) |
 | 2023/10/07 | [JAWS FESTA 2023 in Kyushu](https://jft2023.jaws-ug.jp/) | [Backlogの成長と共に進化するAWSを活用したGitホスティングアーキテクチャ](https://speakerdeck.com/vvatanabe/backlog-git-hosting-architecture-with-aws-2023-5d51109a-c09d-4554-a73e-f1ac68d6f90e) |
