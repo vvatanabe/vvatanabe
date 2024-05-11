@@ -28,6 +28,7 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 | [go-git/go-git](https://github.com/go-git/go-git) | go-git is a highly extensible git implementation library written in pure Go. | [Contributor](https://github.com/go-git/go-git/commits?author=vvatanabe) |
 | [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) | zxcvbn is a password strength estimator inspired by password crackers. | [Contributor](https://github.com/dropbox/zxcvbn/pull/175) |
 | [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) | Bot Framework provides the most comprehensive experience for building conversation applications. | [Contributor](https://github.com/microsoft/botframework-sdk/pull/559) |
+| [golang/net](https://github.com/golang/net) | Go supplementary network libraries. | [Contributor](https://github.com/golang/net/commit/ac9987996285eb37e5176356621eec4f5c9b8e83) |
 
 ## Presentation Highlights
 Here are some of the presentations I've given. Feel free to dive in!
