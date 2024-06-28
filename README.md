@@ -35,6 +35,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2024/06/28 | [DevelopersIO 2024 FUKUOKA Day1](https://classmethod.connpass.com/event/317870/) | [サーバーレスでファイル共有サービスの未来を切り開く〜 Backlogにおける価値あるレガシープロトコルとの付き合い方 〜](https://speakerdeck.com/vvatanabe/serverless-opens-the-future-of-file-sharing-services) |
 | 2024/04/04 | [JBUG東京#22](https://jbug.connpass.com/event/313217/) | [ベトナムにおけるBacklog活用のリアル](https://speakerdeck.com/vvatanabe/case-study-report-on-the-use-of-backlog-in-vietnam) |
 | 2024/03/27 | Backlog Meetup in Hanoi | [High Availability at Backlog Git](https://speakerdeck.com/vvatanabe/high-availability-at-backlog-git) |
 | 2024/02/28 | [DAIMYO Meetup#4](https://nulab.connpass.com/event/307954/) | [Intoroduction to DynamoMQ](https://speakerdeck.com/vvatanabe/dynamomq-implementing-message-queueing-with-amazon-dynamodb-in-go)|
