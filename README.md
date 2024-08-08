@@ -69,6 +69,7 @@ I've written the following books and blog articles. If any of these pique your i
 
 | Published | Source | Title |
 | ----------- | ----------- | ----------- |
+| 2024/08/08 | Nulab Blog | [サーバーレスなファイル共有機能の考察 〜 Amazon S3とDynamoDBを用いた設計編 〜](https://nulab.com/ja/blog/nulab/serverless-file-sharing-with-s3-and-dynamodb/) |
 | 2024/04/10 | Nulab Blog | [ベトナムにおけるBacklog活用のリアル](https://nulab.com/ja/blog/backlog/case-study-report-on-the-use-of-backlog-in-vietnam/) |
 | 2023/07/25 | Nulab Blog | [コードからコミュニティへ 〜 Go OpenAIと共に歩むOSSの旅 〜](https://nulab.com/ja/blog/nulab/code-to-community/) |
 | 2023/04/20 | Nulab Blog | [プログラミングを通じて得られた宮古島の子どもたちの笑顔](https://nulab.com/ja/blog/nulab/resortwork2022-vvatanabe/) |
