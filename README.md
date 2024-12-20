@@ -69,6 +69,7 @@ I've written the following books and blog articles. If any of these pique your i
 
 | Published | Source | Title |
 | ----------- | ----------- | ----------- |
+| 2024/12/20 | Nulab Blog | [徹底解説！Amazon S3のレジリエンスを高める技術 #reinvent2024](https://nulab.com/ja/blog/nulab/tips-to-increase-amazon-s3-resilience-reinvent2024/) |
 | 2024/12/16 | Nulab Blog | [AWSファイルストレージのレジリエンスを高める設計の勘所 #reinvent2024](https://nulab.com/ja/blog/nulab/tips-to-increase-aws-file-storage-resilience-reinvent2024/) |
 | 2024/08/08 | Nulab Blog | [サーバーレスなファイル共有機能の考察 〜 Amazon S3とDynamoDBを用いた設計編 〜](https://nulab.com/ja/blog/nulab/serverless-file-sharing-with-s3-and-dynamodb/) |
 | 2024/04/10 | Nulab Blog | [ベトナムにおけるBacklog活用のリアル](https://nulab.com/ja/blog/backlog/case-study-report-on-the-use-of-backlog-in-vietnam/) |
