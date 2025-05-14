@@ -56,6 +56,12 @@ Here are some of the presentations I've given. Feel free to dive in!
 | 2018/06/14 | [Fukuoka.go#11](https://fukuokago.connpass.com/event/87684/) | [Runtime Dependency Injection in Go](https://slides.com/vvatanabe/runtime-dependency-injection-in-go) |
 | 2018/04/15 | [Go Conference 2018 Spring](https://gocon.connpass.com/event/82515/) | [Replaced Backlog's Git Server from Perl to Go](https://slides.com/vvatanabe/replaced-backlogs-git-server-from-perl-to-go) |
 
+## Security Contributions
+
+| Year | CVE ID | Affected Component | My Involvement |
+|------|--------|-------------------|----------------|
+| 2025 | [CVE-2025-22869](https://www.cve.org/CVERecord?id=CVE-2025-22869) | Go standard library `crypto` package | Reported and collaborated with the Go security team on the fix |
+
 ## My Writing Endeavors
 I've written the following books and blog articles. If any of these pique your interest, feel free to check them out!
 
