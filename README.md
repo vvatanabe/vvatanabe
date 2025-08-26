@@ -42,6 +42,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2025/08/25 | [Fukuoka.go#22](https://fukuokago.connpass.com/event/364970/) | [CVE-2025-22869に学ぶ、メモリデバッグとOSS脆弱性報告術](https://speakerdeck.com/vvatanabe/lessons-from-cve-2025-22869-memory-debugging-and-oss-vulnerability-reporting) |
 | 2025/08/08 | [JBUG京都#2](https://jbug.connpass.com/event/362291/) | [Backlog AI アシスタントが切り開く未来 〜 プロジェクト管理の、次の景色へ 〜](https://speakerdeck.com/vvatanabe/backlog-ai-asisutantogaqie-rikai-kuwei-lai) |
 | 2024/06/28 | [DevelopersIO 2024 FUKUOKA Day1](https://classmethod.connpass.com/event/317870/) | [サーバーレスでファイル共有サービスの未来を切り開く〜 Backlogにおける価値あるレガシープロトコルとの付き合い方 〜](https://speakerdeck.com/vvatanabe/serverless-opens-the-future-of-file-sharing-services) |
 | 2024/04/04 | [JBUG東京#22](https://jbug.connpass.com/event/313217/) | [ベトナムにおけるBacklog活用のリアル](https://speakerdeck.com/vvatanabe/case-study-report-on-the-use-of-backlog-in-vietnam) |
