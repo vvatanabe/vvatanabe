@@ -79,6 +79,7 @@ I've written the following books and blog articles. If any of these pique your i
 
 | Published | Source | Title |
 | ----------- | ----------- | ----------- |
+| 2025/12/25 | Nulab Blog | [Mastra × AWS におけるサーバーレスな AI メモリの実現](https://nulab.com/ja/blog/nulab/building-serverless-ai-memory-with-mastra-x-aws/) |
 | 2025/09/12 | Nulab Blog | [Introduction to @mastra/s3vectors](https://nulab.com/ja/blog/nulab/introduction-to-mastra-s3vectors/) |
 | 2025/01/17 | Nulab Blog | [Disaster Recovery環境におけるデータ整合性を保つための工夫 #reinvent2024](https://nulab.com/ja/blog/nulab/disaster-recovery-data-consistency-practices-reinvent2024/) |
 | 2024/12/26 | Nulab Blog | [FSx for Lustreで実現する高性能ファイルストレージの活用術 #reinvent2024](https://nulab.com/ja/blog/nulab/fsx-for-lustre-use-cases-reinvent2024/) |
