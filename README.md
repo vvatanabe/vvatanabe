@@ -42,6 +42,7 @@ Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2026/03/22 | [GDGoC Japan Hackathon 2026](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-aizu-fukushima-japan-presents-gdgoc-japan-hackathon/cohost-gdg-on-campus-university-of-aizu-fukushima-japan/) | [ハッカソンの "その先" へ — Backlog AIアシスタントができるまで —](https://speakerdeck.com/vvatanabe/beyond-the-hackathon-how-we-built-the-backlog-ai-assistant) |
 | 2025/12/20 | [JAWS-UG Presents - AI Builders Day](https://jawsug.connpass.com/event/371658/) | [Mastra×AWS におけるサーバーレスなAIメモリの実現](https://speakerdeck.com/vvatanabe/building-serverless-ai-memory-with-mastra-x-aws) |
 | 2025/08/25 | [Fukuoka.go#22](https://fukuokago.connpass.com/event/364970/) | [CVE-2025-22869に学ぶ、メモリデバッグとOSS脆弱性報告術](https://speakerdeck.com/vvatanabe/lessons-from-cve-2025-22869-memory-debugging-and-oss-vulnerability-reporting) |
 | 2025/08/08 | [JBUG京都#2](https://jbug.connpass.com/event/362291/) | [Backlog AI アシスタントが切り開く未来 〜 プロジェクト管理の、次の景色へ 〜](https://speakerdeck.com/vvatanabe/backlog-ai-asisutantogaqie-rikai-kuwei-lai) |
