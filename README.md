@@ -36,12 +36,22 @@ Here, I'd list down projects or contributions I've made on GitHub. This could in
 |------|--------|-------------------|----------------|
 | 2025 | [CVE-2025-22869](https://www.cve.org/CVERecord?id=CVE-2025-22869) | Go standard library `crypto` package | Reported and collaborated with the Go security team on the fix |
 
+## Youtube
+
+| Published | Event | Title |
+| ----------- | ----------- | ----------- |
+| 2026/06/16 | [DASH 2026](https://dash.datadoghq.com/) | [When WAFs Aren't Enough How We Secured Our LLM-Powered Agent with Datadog AI Guard](https://www.youtube.com/watch?v=0KoCx3Qgxm4) |
 
 ## Presentation Highlights
 Here are some of the presentations I've given. Feel free to dive in!
 
 | Published | Event | Title |
 | ----------- | ----------- | ----------- |
+| 2026/08/26 | [JBUG Creative#4](https://jbug.connpass.com/event/402141/) | [Inside Backlog AI Assistant - How it works, and how to work with it -](https://speakerdeck.com/vvatanabe/inside-backlog-ai-assistant-how-it-works-and-how-to-work-with-it) |
+| 2026/07/01 | [Japan Datadog User Group Meetup#19@福岡](https://datadog-jp.connpass.com/event/387237/) | DASH 2026 登壇者と Fireside Chat |
+| 2026/06/16 | [DASH 2026](https://dash.datadoghq.com/) | When WAFs Aren't Enough How We Secured Our LLM-Powered Agent with Datadog AI Guard |
+| 2026/05/29 | [AI時代のシステム運用最前線 〜アプリケーションの進化とObservabilityの再定義〜](https://events.datadoghq.com/ja/events/partnerseminar-202605/) | [You Can Design What You Can See 〜 LLM Observability for the Backlog AI Assistant 〜](https://speakerdeck.com/vvatanabe/you-can-design-what-you-can-see-llm-observability-for-the-backlog-ai-assistant) |
+| 2026/04/24 | [AI Dev Day in Fukuoka](https://azureai.connpass.com/event/382334/) | [Shipping AI Agents — Lessons from Production](https://speakerdeck.com/vvatanabe/shipping-ai-agents-lessons-from-production) |
 | 2026/03/22 | [GDGoC Japan Hackathon 2026](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-aizu-fukushima-japan-presents-gdgoc-japan-hackathon/cohost-gdg-on-campus-university-of-aizu-fukushima-japan/) | [ハッカソンの "その先" へ — Backlog AIアシスタントができるまで —](https://speakerdeck.com/vvatanabe/beyond-the-hackathon-how-we-built-the-backlog-ai-assistant) |
 | 2025/12/20 | [JAWS-UG Presents - AI Builders Day](https://jawsug.connpass.com/event/371658/) | [Mastra×AWS におけるサーバーレスなAIメモリの実現](https://speakerdeck.com/vvatanabe/building-serverless-ai-memory-with-mastra-x-aws) |
 | 2025/08/25 | [Fukuoka.go#22](https://fukuokago.connpass.com/event/364970/) | [CVE-2025-22869に学ぶ、メモリデバッグとOSS脆弱性報告術](https://speakerdeck.com/vvatanabe/lessons-from-cve-2025-22869-memory-debugging-and-oss-vulnerability-reporting) |
